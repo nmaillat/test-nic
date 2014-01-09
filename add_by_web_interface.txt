@@ -2,5 +2,9 @@
 
 # added with text editor localy
 
+<<<<<<< HEAD
 
 # add with text edit 9:57
+=======
+# web interface 9:56
+>>>>>>> 07a079a3d31f9c455851d0484a458d8039a438f2
